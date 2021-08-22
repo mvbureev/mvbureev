@@ -29,3 +29,4 @@
 
 [![mvbureev GitHub stats](https://github-readme-stats.vercel.app/api?username=mvbureev&theme=vue)](https://github.com/mvbureev/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvbureev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
