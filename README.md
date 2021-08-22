@@ -27,5 +27,5 @@
 
 ****
 
-[![mvbureev GitHub stats](https://github-readme-stats.vercel.app/api?username=mvbureev&theme=dark)](https://github.com/mvbureev/github-readme-stats)
+[![mvbureev GitHub stats](https://github-readme-stats.vercel.app/api?username=mvbureev&theme=vue)](https://github.com/mvbureev/github-readme-stats)
 
