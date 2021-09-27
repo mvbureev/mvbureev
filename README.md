@@ -18,7 +18,7 @@
 ### [mvbureev.ru](https://mvbureev.ru)
 
 
-### 📈 GitHub Stats
+#### 📈 GitHub Stats
 <p align="center">
   <table>
   <tr>
