@@ -1,12 +1,6 @@
-## 👋 Привет! Меня зовут Максим Буреев ([mvbureev.ru](https://mvbureev.ru))
+### 👋 Привет! Я — Максим Буреев, Front-end Engineer.
 
-
-
-### 🦄 Я — Front-end Engineer.
-
-
-
-#### 🧑‍💻 В своей работе я использую такие инструменты как:
+#### 🧑‍💻 В своaей работе я использую такие инструменты как:
 
 * ECMAscript
 * React
@@ -16,7 +10,12 @@
 * SCSS/SAAS
 * Emotion/styled
 
-[mvbureev.ru](https://mvbureev.ru)
+#### 📣 Вы можете связаться со мной:
+
+* Telegram: [@mvbureev](https://t.me/mvbureev)
+* Email: mvbureev@gmail.com
+
+### [mvbureev.ru](https://mvbureev.ru)
 
 
 ### 📈 GitHub Stats
@@ -25,6 +24,6 @@
   <tr>
       <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=mvbureev&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=2E3239" /></td>
       <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvbureev&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=2E3239" /></td>
-  </tr>   
+  </tr>
 </table>
 </p>
