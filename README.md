@@ -14,7 +14,7 @@
 * Telegram: [@mvbureev](https://t.me/mvbureev)
 * Email: mvbureev@gmail.com
 
-### [mvbureev.ru](https://mvbureev.ru)
+### [mvbureev.tech](https://mvbureev.tech)
 
 
 #### 📈 GitHub Stats
