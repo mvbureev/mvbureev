@@ -1,6 +1,6 @@
-### 👋 Hello! My name is Maxim Bureev. I'm Front-end Engineer.
+### 👋 Hi! My name is Maxim Bureev. I'm Front-end Engineer.
 
-#### 🧑‍💻 In my work I use tools such as:
+#### 🧑‍💻 I use:
 - ECMAscript
 - TypeScript
 - React
@@ -8,7 +8,7 @@
 - MobX
 - Next.js
 
-#### 📣 You can contact
+#### 📣 My contacts
 
 * Telegram: [@mvbureev](https://t.me/mvbureev)
 * Email: mvbureev@gmail.com
