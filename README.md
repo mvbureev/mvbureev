@@ -1,5 +1,7 @@
 ### 👋 Hi! My name is Maxim Bureev. I'm Front-end Engineer.
 
+__At the moment I am looking for work in Cyprus or another country outside the CIS for labor emigration from Russia.__
+
 #### 🧑‍💻 I use:
 - ECMAscript
 - TypeScript
@@ -8,10 +10,11 @@
 - MobX
 - Next.js
 
-#### 📣 My contacts
+#### 📣 Contacts & Links
 
 * Telegram: [@mvbureev](https://t.me/mvbureev)
 * Email: mvbureev@gmail.com
+* GitLab: [gitlab.com/mvbureev](https://gitlab.com/mvbureev)
 
 ### [mvbureev.tech](https://mvbureev.tech)
 
