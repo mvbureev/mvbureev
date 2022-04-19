@@ -1,6 +1,9 @@
-### 👋 Hi! My name is Maxim Bureev. I'm Front-end Engineer.
+### 👋 Hi! My name is Maxim Bureev.
 
-__At the moment I am looking for work in Cyprus or another country outside the CIS for labor emigration from Russia.__
+I am a strong middle Frontend engineer with 3+ years of experience. The main tools are React, Redux (saga). Worked on a large number of projects: huge marketplaces and media platforms, admin panels with a bunch of charts and trees, social networks, learning platforms, outsourcing. Worked for different clients: Cyprus, UK, Russia, Germany, Luxembourg.
+Open for work in Cyprus or non-CIS* with relocation.
+
+_*CIS - Commonwealth of Independent States - Belarus, Kazakhstan, Russia, etc._
 
 #### 🧑‍💻 I use:
 - ECMAscript
