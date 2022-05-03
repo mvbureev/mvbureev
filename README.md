@@ -16,10 +16,12 @@ _*CIS - Commonwealth of Independent States - Belarus, Kazakhstan, Russia, etc._
 #### 📣 Contacts & Links
 
 * Telegram: [@mvbureev](https://t.me/mvbureev)
+* LinkedIn: [linkedin.com/in/bureev](https://www.linkedin.com/in/bureev/)
+* CV: [notion.so/mvbureev](https://www.notion.so/mvbureev/Maxim-Bureev-2424d9c177794c4b9ca4ed9c59bfe972)
 * Email: mvbureev@gmail.com
 * GitLab: [gitlab.com/mvbureev](https://gitlab.com/mvbureev)
 
-### [mvbureev.tech](https://mvbureev.tech)
+### [mvbureev.com](https://mvbureev.com)
 
 
 #### 📈 GitHub Stats
