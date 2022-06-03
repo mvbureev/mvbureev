@@ -1,11 +1,7 @@
 ### 👋 Hi! My name is Maxim Bureev.
 
-High Middle Frontend Engineer with 4+ years of experience. I want to work in an actively developing nontoxic company.
-
-Worked on many projects: huge marketplaces and media platforms, admin panels with a bunch of charts and trees, social networks, learning platforms, outsourcing. Worked for different clients: Cyprus, UK, Russia, Germany, Luxembourg.
-Open for work in Cyprus or outside the CIS with relocation.
-
-_*CIS - Commonwealth of Independent States - Belarus, Kazakhstan, Russia, etc._
+Middle Front-end Developer with 4+ years of experience looking for a job in Cyprus (or outside the CIS) with relocation.
+My goal is to use my experience in the company to develop a useful product and find a team to share experience with each other to create a team that will solve any problem.
 
 #### 🧑‍💻 I use:
 - ECMAscript
@@ -13,13 +9,12 @@ _*CIS - Commonwealth of Independent States - Belarus, Kazakhstan, Russia, etc._
 - React
 - Redux
 - MobX
-- Next.js
 
 #### 📣 Contacts & Links
 
 * Telegram: [@mvbureev](https://t.me/mvbureev)
 * LinkedIn: [linkedin.com/in/bureev](https://www.linkedin.com/in/bureev/)
-* CV: [notion.so/mvbureev](https://www.notion.so/mvbureev/Maxim-Bureev-2424d9c177794c4b9ca4ed9c59bfe972)
+* CV: [mvbureev.com/cv](https://mvbureev.com/public/Frontend_Bureev_CV.pdf)
 * Email: mvbureev@gmail.com
 * GitLab: [gitlab.com/mvbureev](https://gitlab.com/mvbureev)
 
