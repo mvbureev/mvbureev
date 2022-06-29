@@ -14,7 +14,7 @@ My goal is to use my experience in the company to develop a useful product and f
 
 * Telegram: [@mvbureev](https://t.me/mvbureev)
 * LinkedIn: [linkedin.com/in/bureev](https://www.linkedin.com/in/bureev/)
-* CV: [mvbureev.com/cv](https://mvbureev.com/public/Frontend_Bureev_CV.pdf)
+* CV: [cloud.mvbureev.com/s/cv](https://cloud.mvbureev.com/s/cv)
 * Email: mvbureev@gmail.com
 * GitLab: [gitlab.com/mvbureev](https://gitlab.com/mvbureev)
 
@@ -25,8 +25,8 @@ My goal is to use my experience in the company to develop a useful product and f
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=mvbureev&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=2E3239" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvbureev&layout=compact&hide_border=true&hide_title=true&hide=java&theme=dark&icon_color=5194f0&bg_color=2E3239" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=mvbureev&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=2E3239&cache_seconds=1800" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvbureev&layout=compact&hide_border=true&hide_title=true&hide=java&theme=dark&icon_color=5194f0&bg_color=2E3239&cache_seconds=1800" /></td>
   </tr>
 </table>
 </p>
